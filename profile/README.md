@@ -103,4 +103,23 @@ PathPal provides an accurate route is provided through voice guidance from the s
 # ‣ Expected Values
 
 <br>
-<br
+<br>
+
+# ‣ Getting Started
+Download Femunity directly from our GitHub repository. After downloading the app, you can sign up for an account using your Google account or use Guest Mode to explore the app.
+
+### Prerequisites
+Before you start, make sure you have installed the following on your system:
+- JDK 17
+- {추가}
+
+### Installation
+ML & Server
+- Clone the Pathpal repository from GitHub
+   - ML :
+   - Server :
+- Start ML
+  - {ML 실행법 작성}
+- Start Server
+  - ./gradlew build -x test
+  - java -jar 
