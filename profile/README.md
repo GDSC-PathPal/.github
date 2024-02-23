@@ -119,7 +119,8 @@ ML & Server
    - ML :
    - Server :
 - Start ML
-  - {ML 실행법 작성}
+  - pip install -r requirements.txt
+  - python inference_yolov8.py
 - Start Server
   - ./gradlew build -x test
   - java -jar 
