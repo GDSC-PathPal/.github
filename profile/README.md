@@ -13,7 +13,7 @@ PathPal provides an accurate route is provided through voice guidance from the s
 
 Watch the product demo on:
 
-<a href="{유튜브 주소를 넣어주세요}">
+<a href="https://www.youtube.com/watch?v=7HeddwSCQK8"> 
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/>
   </a> 	
 
@@ -104,6 +104,17 @@ Watch the product demo on:
 
 <br>
 <br>
+
+
+# ‣ Technical Features
+<br>
+
+### Architecture
+<br>
+
+![Group 560849](https://github.com/GDSC-PathPal/.github/assets/97840728/cd719a2f-2dff-46be-a587-5046fb9759c8)
+
+
 
 # ‣ Getting Started
 Download Femunity directly from our GitHub repository. After downloading the app, you can sign up for an account using your Google account or use Guest Mode to explore the app.
