@@ -11,7 +11,9 @@
 PathPal is a solution helps visually impaired people walk safely. 
 PathPal provides an accurate route is provided through voice guidance from the starting point to the destination. In addition, it collects visual information through cameras, detects objects and analyzes them using AI/ML to informs users to prevent risk factors through voice and vibration.
 
-Watch the product demo on:
+<br>
+
+### Watch the product demo on:
 
 <a href="https://www.youtube.com/watch?v=7HeddwSCQK8"> 
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/>
@@ -109,10 +111,25 @@ Watch the product demo on:
 # ‣ Technical Features
 <br>
 
-### Architecture
+## Architecture
 <br>
 
 ![Group 560849](https://github.com/GDSC-PathPal/.github/assets/97840728/cd719a2f-2dff-46be-a587-5046fb9759c8)
+
+<br>
+ 
+## iOS
+
+<br>
+ 
+## AI/ML
+
+<br>
+
+
+## Backend
+
+<br>
 
 
 
