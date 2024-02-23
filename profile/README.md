@@ -3,7 +3,7 @@
 <br>
 
 <img src="https://github.com/GDSC-PathPal/PathPal-iOS/assets/97840728/c0897eb3-76b4-4145-91e6-e64981cac42b" alt="표지" style="width:80%;" />
-
+  
 <br>
 <br>
 
@@ -11,7 +11,12 @@
 PathPal is a solution helps visually impaired people walk safely. 
 PathPal provides an accurate route is provided through voice guidance from the starting point to the destination. In addition, it collects visual information through cameras, detects objects and analyzes them using AI/ML to informs users to prevent risk factors through voice and vibration.
 
-<br>
+Watch the product demo on:
+
+<a href="{유튜브 주소를 넣어주세요}">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/>
+  </a> 	
+
 
 <br>
 <br>
@@ -54,10 +59,6 @@ PathPal provides an accurate route is provided through voice guidance from the s
 
 # ‣ Key Features
 
-### The two functions below operate simultaneously
-
-<br>
-
 ## Navigation
 - Current location and heading Management
 - Voice search for starting and destination
@@ -72,11 +73,10 @@ PathPal provides an accurate route is provided through voice guidance from the s
   - Detectable Risks : block kind bad, raised curb, Pillar, bollard, barricade
 
 <br>
-
  
 ## Globalization
 
-<img width="692" alt="스크린샷 2024-02-21 오후 1 12 43" src="https://github.com/GDSC-PathPal/.github/assets/97840728/0d2ceaed-698b-4d5e-8a95-b9c5ffc07803">
+<img width="692" src="https://github.com/GDSC-PathPal/.github/assets/97840728/0d2ceaed-698b-4d5e-8a95-b9c5ffc07803">
 
 
 <br>
@@ -110,17 +110,19 @@ Download Femunity directly from our GitHub repository. After downloading the app
 
 ### Prerequisites
 Before you start, make sure you have installed the following on your system:
-- JDK 17
-- {추가}
+- JDK 17
 
 ### Installation
 ML & Server
 - Clone the Pathpal repository from GitHub
-   - ML :
-   - Server :
+   - ML : https://github.com/GDSC-PathPal/PathPal-ML
+   - Server : https://github.com/GDSC-PathPal/PathPal-Server
 - Start ML
   - pip install -r requirements.txt
   - python inference_yolov8.py
 - Start Server
-  - ./gradlew build -x test
-  - java -jar 
+  - java -jar PathPal-0.1.0.jar
+  - **You must turn on the server after the ML server is turned on**
+
+# ‣ License
+This project is licensed under the terms of the MIT license.
