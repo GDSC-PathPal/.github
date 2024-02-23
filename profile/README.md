@@ -125,4 +125,4 @@ ML & Server
   - **You must turn on the server after the ML server is turned on**
 
 # ‣ License
-This project is licensed under the terms of the MIT license.
+PathPal is licensed under the terms of the MIT license. See [License.txt](https://github.com/GDSC-PathPal/.github/blob/main/LICENSE) for more information
