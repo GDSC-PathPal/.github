@@ -1,5 +1,6 @@
 
 # Google Developer Student Clubs 2024 Solution Challenge
+### Top 100
 <br>
 
 <img src="https://github.com/GDSC-PathPal/PathPal-iOS/assets/97840728/c0897eb3-76b4-4145-91e6-e64981cac42b" alt="표지" style="width:80%;" />
