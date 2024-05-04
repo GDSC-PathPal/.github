@@ -115,22 +115,7 @@ PathPal provides an accurate route is provided through voice guidance from the s
 ## Architecture
 <br>
 
-![Group 560849](https://github.com/GDSC-PathPal/.github/assets/97840728/cd719a2f-2dff-46be-a587-5046fb9759c8)
-
-<br>
- 
-## iOS
-
-<br>
- 
-## AI/ML
-
-<br>
-
-
-## Backend
-
-<br>
+![Group 560852](https://github.com/GDSC-PathPal/.github/assets/97840728/dde7d8e8-a922-4550-89b1-5448f9a42c79)
 
 
 
@@ -142,7 +127,7 @@ Before you start, make sure you have installed the following on your system:
 - JDK 17
 
 ### Installation
-ML & Server
+##### ML & Server
 - Clone the Pathpal repository from GitHub
    - ML : https://github.com/GDSC-PathPal/PathPal-ML
    - Server : https://github.com/GDSC-PathPal/PathPal-Server
@@ -151,6 +136,12 @@ ML & Server
   - python inference_yolov8.py
 - Start Server
   - java -jar PathPal-0.1.0.jar
+  - **You must turn on the server after the ML server is turned on**
+ 
+iOS ML & Server
+- Clone the Pathpal-iOS repository from GitHub
+   - https://github.com/GDSC-PathPal/PathPal-iOS
+  - **You must get the required API-Keys and config files before running**
   - **You must turn on the server after the ML server is turned on**
 
 # ‣ License
