@@ -48,13 +48,13 @@ PathPal provides an accurate route is provided through voice guidance from the s
 Light Mode(English)
 <br>
 
-<img src="https://github.com/GDSC-PathPal/PathPal-iOS/assets/97840728/0c62f68c-5103-4307-9538-d6c7058bd95a" alt="솔루션" style="width:80%;" />
+<img src="https://github.com/GDSC-PathPal/PathPal-iOS/assets/97840728/0c62f68c-5103-4307-9538-d6c7058bd95a" alt="목업 라이트" style="width:80%;" />
 <br>
 
 Dark Mode(Korean)
 <br>
 
-<img src="https://github.com/GDSC-PathPal/.github/assets/97840728/58fb43f3-0a01-4cc9-80c6-72f6a4445a0c" alt="솔루션" style="width:80%;" />
+<img src="https://github.com/GDSC-PathPal/.github/assets/97840728/58fb43f3-0a01-4cc9-80c6-72f6a4445a0c" alt="목업 다크" style="width:80%;" />
 
 <br>
 
@@ -124,7 +124,7 @@ Dark Mode(Korean)
 ## Architecture
 <br>
 
-![Group 560852](https://github.com/GDSC-PathPal/.github/assets/97840728/dde7d8e8-a922-4550-89b1-5448f9a42c79)
+<img src="https://github.com/GDSC-PathPal/.github/assets/97840728/db6ddc51-5c5d-4a6f-81bc-f8ed09d13339" alt="아키텍쳐" style="width:80%;" />
 
 
 
