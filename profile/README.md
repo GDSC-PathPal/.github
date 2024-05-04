@@ -45,7 +45,16 @@ PathPal provides an accurate route is provided through voice guidance from the s
 
 # ‣ Mockup
 
+Light Mode(English)
+<br>
+
 <img src="https://github.com/GDSC-PathPal/PathPal-iOS/assets/97840728/0c62f68c-5103-4307-9538-d6c7058bd95a" alt="솔루션" style="width:80%;" />
+<br>
+
+Dark Mode(Korean)
+<br>
+
+<img src="https://github.com/GDSC-PathPal/.github/assets/97840728/58fb43f3-0a01-4cc9-80c6-72f6a4445a0c" alt="솔루션" style="width:80%;" />
 
 <br>
 
